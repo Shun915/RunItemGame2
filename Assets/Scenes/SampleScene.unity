@@ -735,8 +735,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerFreeMove
   animatorBody: {fileID: 776371611}
   gravity: 0.15
-  speedZ: 3
-  speedJump: 8
+  speedZ: 5
+  speedJump: 8.07
 --- !u!114 &578481209
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1260,15 +1260,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7364936370289906279, guid: 74c549d1b06b6b140a1fd9536eea637f, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.9425912
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7364936370289906279, guid: 74c549d1b06b6b140a1fd9536eea637f, type: 3}
       propertyPath: InitialModule.startColor.maxColor.g
-      value: 0
+      value: 0.7630954
       objectReference: {fileID: 0}
     - target: {fileID: 7364936370289906279, guid: 74c549d1b06b6b140a1fd9536eea637f, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
